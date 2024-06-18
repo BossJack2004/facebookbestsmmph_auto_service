@@ -4,7 +4,7 @@ import time
 import re
 
 # Global variables
-ACCESS_TOKEN = 'your_facebook_access_token'  # Palitan ng iyong access token
+ACCESS_TOKEN = 'EAAQzbxqK9QkBO0tNvNh2B9FiZB5RPW2Qqsv7FiMcsqt1iZCgAQ3a6jAsZBvEoeZALqKuMLP9QGXdaHi9XZCG6ZBO6mZAUbN8KvOiG7oEfFA1vaNfipZBdH23gADl3eBIr3miRZCyZBJpMr4JZA5hpSudPXIGUZCqKjZBcQrmkNK70ZBQ2n0DKNReLKJIOevOb8gBEZCT7bkmubuLaBB6BMFJn3XYcqaJe1GwMLXN0vYa0nDhbqe8G5Pqr0DwqfvZClat0KJ9EmEZD'  # Palitan ng iyong access token
 
 # List ng Facebook accounts kasama ang kanilang mga credentials
 accounts = []
